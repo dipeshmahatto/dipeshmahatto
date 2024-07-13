@@ -20,12 +20,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipeshmahatto&show_icons=true&locale=en" alt="dipeshmahatto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshmahatto&" alt="dipeshmahatto" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dipeshmahatto&limit=5&theme=flat&combine_all_yearly_contributions=true)
-###
+
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aasis-io/aasis-io/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dipeshmahatto/dipeshmahatto/output/snake.svg" alt="Snake animation" />
 
 ###
