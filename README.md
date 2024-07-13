@@ -22,4 +22,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshmahatto&" alt="dipeshmahatto" /></p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dipeshmahatto&limit=5&theme=flat&combine_all_yearly_contributions=true)
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aasis-io/aasis-io/output/snake.svg" alt="Snake animation" />
+
+###
