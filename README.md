@@ -21,9 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshmahatto&" alt="dipeshmahatto" /></p>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dipeshmahatto/dipeshmahatto/output/blank.svg" alt="Snake animation" />
-
-###
